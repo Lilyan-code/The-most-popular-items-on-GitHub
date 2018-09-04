@@ -38,3 +38,15 @@ Proton是基于Wine开发的一个能够在Steam客户端使用的工具，它�
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 该开发者花了将近半年的时间寻找大厂的面试题，筛选出了近百个知识点然后成文，开源出了第一个版本，目前总字数已高达 10 余万字。目前内容包含了 JS、网络、浏览器相关、性能优化、安全、框架、Git、数据结构、算法等内容，无论是基础还是进阶，亦或是源码解读，你都能在本图谱中得到满意的答案，帮助你更好的进行面试。
+
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)
+
+这是一套计算机科学学习笔记，主要总结一些比较重要的知识点，笔记有少部分内容是直接引入书上原文或者官方技术文档的原文
+
+- [JCSprout](https://github.com/crossoverJie/JCSprout)
+
+这是一个还处于萌芽阶段的 Java 核心知识库。分为常用集合、Java多线程、JVM、分布式相关、常用框架等内容
+
+- [filament](https://github.com/google/filament)
+
+Filament是一款用于Android，Windows，Linux和macOS基于物理的渲染引擎
