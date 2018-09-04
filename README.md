@@ -1,2 +1,4 @@
 # The-most-popular-items-on-GitHub
-The hottest open source project on GitHub every month
+## 2018-8
+1.[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+这个100天搞定机器学习编程的项目，现在已经是爆红GitHub，很快累积了3000多标星，在Twitter上，也有一大票人热捧这个项目。
