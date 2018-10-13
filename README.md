@@ -93,3 +93,15 @@ Design patterns 是程序员在设计应用程序或系统时可用来解决常�
 - [tutorials](https://github.com/eugenp/tutorials)
 
 该项目是一系列小而专注的教程，每个教程都涵盖一个明确的开发领域。大多数教程项目都专注于Spring Framework（和Spring Security）。以下技术是重点：core Java，Jackson，HttpClient，Guava。
+
+- [elasticsearch](https://github.com/elastic/elasticsearch)
+
+Elasticsearch 是一个分布式的 RESTful 风格的搜索和数据分析引擎，能够解决越来越多的用例。作为 Elastic Stack 的核心，它集中存储您的数据，帮助您发现意料之中以及意料之外的情况。Elasticsearch 是一个实时的分布式搜索分析引擎， 它能让你以一个之前从未有过的速度和规模，去探索你的数据。 它被用作全文检索、结构化搜索、分析以及这三个功能的组合
+
+- [tink](https://github.com/google/tink)
+
+Tink 是一个多语言、跨平台的加密开发库，提供安全，易于正确使用和难以滥用的加密 API，目前 Tink 已经被用于保护许多谷歌内部产品的数据，如 AdMob、Google Pay、Google Assistant、Firebase 与 Android Search App 等。
+
+- [incubator-dubbo](https://github.com/apache/incubator-dubbo)
+
+Dubbo 是阿里巴巴公司开源的一个高性能优秀的服务框架，使得应用可通过高性能的 RPC 实现服务的输出和输入功能，可以和 Spring 框架无缝集成。目前，incubator-dubbo 作为一个孵化中的 apache 项目，毕业后,项目移出incubator,成为正式开源项目。
