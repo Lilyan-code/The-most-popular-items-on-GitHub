@@ -50,4 +50,46 @@ Proton是基于Wine开发的一个能够在Steam客户端使用的工具，它�
 - [filament](https://github.com/google/filament)
 
 Filament是一款用于Android，Windows，Linux和macOS基于物理的渲染引擎
+
 ---
+
+## 2018-9
+- [arthas](https://github.com/alibaba/arthas)
+
+Arthas 是阿里巴巴开源的Java的诊断工具，深受开发者喜爱。其采用命令行交互模式，提供同时丰富的Tab自动补全功能，进一步方便进行问题的定位和诊断。
+  
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+
+【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+- [interviews](https://github.com/kdn251/interviews)
+
+Java工程师面试指南，里面涵盖几乎所有软件工程师面试时会碰到的问题以及答案。
+
+- [proxyee-down](https://github.com/proxyee-down-org/proxyee-down)
+
+proxyee-down 是一个开源的下载神器，也可以说是百度云神器，不过，它需要安装证书、设置代理，初次使用会略显繁琐，但带来的速度提升也是显而易见的。
+
+- [brigadier](https://github.com/Mojang/brigadier)
+
+在收购《Minecraft(我的世界)》开发商 Mojang 四年之后，微软开源了游戏的部分 Java 代码。包含两个独立的游戏库，其中一个就是Brigadier，它是 Minecraft 使用的命令引擎（命令解析器和调度器）
+
+- [symphony](https://github.com/b3log/symphony)
+
+Sym 是一个用 Java 实现的现代化社区（论坛/社交网络/博客）平台，“下一代的社区系统，为未来而构建”。黑客派目前就是使用该系统搭建的
+
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+
+Design patterns 是程序员在设计应用程序或系统时可用来解决常见问题的最佳实践手册。它可以帮助你加快开发进程，有效防止一些可能导致重大失误的细节问题，不过深入了解 java-design-patterns 之前，你应提前熟悉各种编程/软件设计原则。
+
+- [spring-boot](https://github.com/spring-projects/spring-boot)
+
+从最根本上来讲，Spring Boot 就是一些库的集合，它能够被任意项目的构建系统所使用。简便起见，该框架也提供了命令行界面，它可以用来运行和测试Boot应用。框架的发布版本，包括集成的CLI（命令行界面），可以在Spring仓库中手动下载和安装。
+
+- [BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary)
+
+通过标签直接生成shape,无需再写shape.xml
+
+- [tutorials](https://github.com/eugenp/tutorials)
+
+该项目是一系列小而专注的教程，每个教程都涵盖一个明确的开发领域。大多数教程项目都专注于Spring Framework（和Spring Security）。以下技术是重点：core Java，Jackson，HttpClient，Guava。
